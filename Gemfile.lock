@@ -8,4 +8,5 @@ GEM
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2)
     addressable (2.7.0)
-      public_suffix (>= 2.0.2, < 5.0
+      public_suffix (>= 2.0.2, < 5.0)
+    coffee-script (2.4
