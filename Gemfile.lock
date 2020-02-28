@@ -21,4 +21,5 @@ GEM
       addressable (~> 2.5)
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
-      ht
+      http_parser.rb (~> 0.6.0)
+    ethon
