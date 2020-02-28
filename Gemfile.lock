@@ -22,4 +22,6 @@ GEM
     em-websocket (0.5.1)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
-    ethon
+    ethon (0.12.0)
+      ffi (>= 1.3.0)
+    eve
