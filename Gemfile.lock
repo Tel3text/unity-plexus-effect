@@ -25,4 +25,5 @@ GEM
     ethon (0.12.0)
       ffi (>= 1.3.0)
     eventmachine (1.2.7)
-    e
+    execjs (2.7.0)
+    faraday (0.17.
