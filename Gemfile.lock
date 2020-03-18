@@ -29,4 +29,5 @@ GEM
     faraday (0.17.3)
       multipart-post (>= 1.2, < 3)
     ffi (1.12.1)
-    forwardable-extended (2.6.0
+    forwardable-extended (2.6.0)
+    gemoji (3.0.
