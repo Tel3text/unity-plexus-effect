@@ -34,4 +34,5 @@ GEM
     github-pages (203)
       github-pages-health-check (= 1.16.1)
       jekyll (= 3.8.5)
-      jekyll-avatar
+      jekyll-avatar (= 0.7.0)
+      jekyll-coffe
