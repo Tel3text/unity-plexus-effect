@@ -33,4 +33,5 @@ GEM
     gemoji (3.0.1)
     github-pages (203)
       github-pages-health-check (= 1.16.1)
-      jekyll (= 
+      jekyll (= 3.8.5)
+      jekyll-avatar
