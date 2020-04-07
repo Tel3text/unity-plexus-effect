@@ -36,4 +36,5 @@ GEM
       jekyll (= 3.8.5)
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
-      jekyll-commonmark-ghpages (= 0.
+      jekyll-commonmark-ghpages (= 0.1.6)
+      jek
