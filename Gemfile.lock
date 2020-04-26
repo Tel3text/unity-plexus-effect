@@ -37,4 +37,5 @@ GEM
       jekyll-avatar (= 0.7.0)
       jekyll-coffeescript (= 1.1.1)
       jekyll-commonmark-ghpages (= 0.1.6)
-      jekyll-default-layout (= 0.1.4
+      jekyll-default-layout (= 0.1.4)
+      jekyll-feed (= 0.
