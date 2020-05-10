@@ -41,4 +41,5 @@ GEM
       jekyll-feed (= 0.13.0)
       jekyll-gist (= 1.5.0)
       jekyll-github-metadata (= 2.12.1)
-      je
+      jekyll-mentions (= 1.5.1)
+    
