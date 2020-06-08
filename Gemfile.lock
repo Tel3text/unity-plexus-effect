@@ -48,4 +48,5 @@ GEM
       jekyll-redirect-from (= 0.15.0)
       jekyll-relative-links (= 0.6.1)
       jekyll-remote-theme (= 0.4.1)
-      jekyll-sass-co
+      jekyll-sass-converter (= 1.5.2)
+      jekyll-
