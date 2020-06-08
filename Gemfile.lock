@@ -45,4 +45,4 @@ GEM
       jekyll-optional-front-matter (= 0.3.2)
       jekyll-paginate (= 1.1.0)
       jekyll-readme-index (= 0.3.0)
-      je
+      jekyll-redirect-from (= 0.15.
