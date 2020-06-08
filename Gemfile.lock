@@ -49,4 +49,5 @@ GEM
       jekyll-relative-links (= 0.6.1)
       jekyll-remote-theme (= 0.4.1)
       jekyll-sass-converter (= 1.5.2)
-      jekyll-
+      jekyll-seo-tag (= 2.6.1)
+      jekyll-sitemap (=
