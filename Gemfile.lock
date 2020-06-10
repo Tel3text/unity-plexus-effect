@@ -51,4 +51,5 @@ GEM
       jekyll-sass-converter (= 1.5.2)
       jekyll-seo-tag (= 2.6.1)
       jekyll-sitemap (= 1.4.0)
-      jekyll-swiss
+      jekyll-swiss (= 1.0.0)
+      je
