@@ -52,4 +52,5 @@ GEM
       jekyll-seo-tag (= 2.6.1)
       jekyll-sitemap (= 1.4.0)
       jekyll-swiss (= 1.0.0)
+      jekyll-theme-architect (= 0.1.1)
       je
