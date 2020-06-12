@@ -54,4 +54,5 @@ GEM
       jekyll-swiss (= 1.0.0)
       jekyll-theme-architect (= 0.1.1)
       jekyll-theme-cayman (= 0.1.1)
-      jekyll-theme-dinky (=
+      jekyll-theme-dinky (= 0.1.1)
+      jekyll-th
