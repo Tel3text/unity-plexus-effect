@@ -55,4 +55,5 @@ GEM
       jekyll-theme-architect (= 0.1.1)
       jekyll-theme-cayman (= 0.1.1)
       jekyll-theme-dinky (= 0.1.1)
-      jekyll-th
+      jekyll-theme-hacker (= 0.1.1)
+      jekyll-t
