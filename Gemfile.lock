@@ -59,4 +59,5 @@ GEM
       jekyll-theme-leap-day (= 0.1.1)
       jekyll-theme-merlot (= 0.1.1)
       jekyll-theme-midnight (= 0.1.1)
-      jekyll-them
+      jekyll-theme-minimal (= 0.1.1)
+      
