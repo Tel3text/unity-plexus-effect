@@ -61,4 +61,5 @@ GEM
       jekyll-theme-midnight (= 0.1.1)
       jekyll-theme-minimal (= 0.1.1)
       jekyll-theme-modernist (= 0.1.1)
-      jekyll-theme-primer (= 0
+      jekyll-theme-primer (= 0.5.4)
+      jekyll-theme
