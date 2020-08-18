@@ -62,4 +62,5 @@ GEM
       jekyll-theme-minimal (= 0.1.1)
       jekyll-theme-modernist (= 0.1.1)
       jekyll-theme-primer (= 0.5.4)
-      jekyll-theme
+      jekyll-theme-slate (= 0.1.1)
+      jekyll-t
