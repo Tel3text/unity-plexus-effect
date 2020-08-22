@@ -63,4 +63,5 @@ GEM
       jekyll-theme-modernist (= 0.1.1)
       jekyll-theme-primer (= 0.5.4)
       jekyll-theme-slate (= 0.1.1)
-      jekyll-theme-tactile (= 0.1
+      jekyll-theme-tactile (= 0.1.1)
+      jekyll-theme-time-mac
