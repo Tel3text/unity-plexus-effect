@@ -65,4 +65,5 @@ GEM
       jekyll-theme-slate (= 0.1.1)
       jekyll-theme-tactile (= 0.1.1)
       jekyll-theme-time-machine (= 0.1.1)
-      jekyll-titles-from-headings
+      jekyll-titles-from-headings (= 0.5.3)
+      jemoji (= 0.11
