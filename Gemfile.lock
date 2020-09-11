@@ -71,4 +71,5 @@ GEM
       liquid (= 4.0.3)
       mercenary (~> 0.3)
       minima (= 2.5.1)
-      nokogiri (>= 1
+      nokogiri (>= 1.10.4, < 2.0)
+      rouge
