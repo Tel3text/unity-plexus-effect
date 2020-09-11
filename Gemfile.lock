@@ -69,4 +69,5 @@ GEM
       jemoji (= 0.11.1)
       kramdown (= 1.17.0)
       liquid (= 4.0.3)
-      mercenary 
+      mercenary (~> 0.3)
+      minima
