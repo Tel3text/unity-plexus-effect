@@ -70,4 +70,5 @@ GEM
       kramdown (= 1.17.0)
       liquid (= 4.0.3)
       mercenary (~> 0.3)
-      minima
+      minima (= 2.5.1)
+      nokogiri (>= 1
