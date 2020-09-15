@@ -75,4 +75,5 @@ GEM
       rouge (= 3.13.0)
       terminal-table (~> 1.4)
     github-pages-health-check (1.16.1)
-      addressable 
+      addressable (~> 2.3)
+      dnsruby (~> 1.60
