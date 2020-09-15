@@ -79,3 +79,5 @@ GEM
       dnsruby (~> 1.60)
       octokit (~> 4.0)
       public_suffix (~> 3.0)
+      typhoeus (~> 1.3)
+    html-p
