@@ -76,4 +76,5 @@ GEM
       terminal-table (~> 1.4)
     github-pages-health-check (1.16.1)
       addressable (~> 2.3)
-      dnsruby (~> 1.60
+      dnsruby (~> 1.60)
+      octoki
