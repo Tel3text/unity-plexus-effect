@@ -77,4 +77,5 @@ GEM
     github-pages-health-check (1.16.1)
       addressable (~> 2.3)
       dnsruby (~> 1.60)
-      octoki
+      octokit (~> 4.0)
+      public_suffix (~> 3.0)
