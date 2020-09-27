@@ -83,4 +83,5 @@ GEM
     html-pipeline (2.12.3)
       activesupport (>= 2)
       nokogiri (>= 1.4)
-    http_parser.rb
+    http_parser.rb (0.6.0)
+    i18n (0.9.5)
