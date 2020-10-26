@@ -88,4 +88,5 @@ GEM
       concurrent-ruby (~> 1.0)
     jekyll (3.8.5)
       addressable (~> 2.4)
-      colorator (~> 1.0
+      colorator (~> 1.0)
+      em-websocket (~>
