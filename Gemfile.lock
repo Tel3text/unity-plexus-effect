@@ -93,4 +93,5 @@ GEM
       i18n (~> 0.7)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 2.0)
-      kramdown (~> 1.14
+      kramdown (~> 1.14)
+      liquid (~> 
