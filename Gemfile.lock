@@ -94,4 +94,6 @@ GEM
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 2.0)
       kramdown (~> 1.14)
-      liquid (~> 
+      liquid (~> 4.0)
+      mercenary (~> 0.3.3)
+ 
