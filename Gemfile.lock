@@ -96,4 +96,5 @@ GEM
       kramdown (~> 1.14)
       liquid (~> 4.0)
       mercenary (~> 0.3.3)
- 
+      pathutil (~> 0.9)
+     
