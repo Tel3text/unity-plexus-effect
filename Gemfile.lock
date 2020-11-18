@@ -101,4 +101,5 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-avatar (0.7.0)
       jekyll (>= 3.0, < 5.0)
-    jekyll-co
+    jekyll-coffeescript (1.1.1)
+      
