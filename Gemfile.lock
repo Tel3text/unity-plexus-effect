@@ -99,4 +99,5 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 4)
       safe_yaml (~> 1.0)
-    jeky
+    jekyll-avatar (0.7.0)
+      jekyll 
