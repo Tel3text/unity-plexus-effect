@@ -108,4 +108,5 @@ GEM
       commonmarker (~> 0.14)
       jekyll (>= 3.7, < 5.0)
     jekyll-commonmark-ghpages (0.1.6)
-      commonmarker (~>
+      commonmarker (~> 0.17.6)
+      jekyll-commonm
