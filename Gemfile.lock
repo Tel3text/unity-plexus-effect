@@ -110,4 +110,5 @@ GEM
     jekyll-commonmark-ghpages (0.1.6)
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
-      rouge (>
+      rouge (>= 2.0, < 4.0)
+    jekyll-
