@@ -111,4 +111,5 @@ GEM
       commonmarker (~> 0.17.6)
       jekyll-commonmark (~> 1.2)
       rouge (>= 2.0, < 4.0)
-    jekyll-
+    jekyll-default-layout (0.1.4)
+      jekyll 
