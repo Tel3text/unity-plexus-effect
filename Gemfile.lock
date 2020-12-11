@@ -113,4 +113,5 @@ GEM
       rouge (>= 2.0, < 4.0)
     jekyll-default-layout (0.1.4)
       jekyll (~> 3.0)
-    jekyll-feed (
+    jekyll-feed (0.13.0)
+      jekyll (>= 3.7, 
