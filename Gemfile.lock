@@ -121,4 +121,5 @@ GEM
       jekyll (~> 3.4)
       octokit (~> 4.0, != 4.4.0)
     jekyll-mentions (1.5.1)
-      
+      html-pipeline (~> 2.3)
+      jek
