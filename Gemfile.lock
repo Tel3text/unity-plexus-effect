@@ -120,4 +120,5 @@ GEM
     jekyll-github-metadata (2.12.1)
       jekyll (~> 3.4)
       octokit (~> 4.0, != 4.4.0)
-    jekyll-m
+    jekyll-mentions (1.5.1)
+      
