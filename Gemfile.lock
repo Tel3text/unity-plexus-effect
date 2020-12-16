@@ -119,4 +119,5 @@ GEM
       octokit (~> 4.2)
     jekyll-github-metadata (2.12.1)
       jekyll (~> 3.4)
-      octokit (~> 
+      octokit (~> 4.0, != 4.4.0)
+    jekyll-m
