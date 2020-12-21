@@ -125,4 +125,5 @@ GEM
       jekyll (>= 3.7, < 5.0)
     jekyll-octicons (9.3.1)
       jekyll (>= 3.6, < 5.0)
-      oc
+      octicons (= 9.3.1)
+    jekyll-opti
