@@ -126,4 +126,5 @@ GEM
     jekyll-octicons (9.3.1)
       jekyll (>= 3.6, < 5.0)
       octicons (= 9.3.1)
-    jekyll-optional-front-matter (
+    jekyll-optional-front-matter (0.3.2)
+      jekyll (>= 3.0
