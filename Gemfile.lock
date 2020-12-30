@@ -138,3 +138,5 @@ GEM
     jekyll-remote-theme (0.4.1)
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
+      rubyzip (>= 1.3.0)
+    jekyll-sass-c
