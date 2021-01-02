@@ -139,4 +139,5 @@ GEM
       addressable (~> 2.0)
       jekyll (>= 3.5, < 5.0)
       rubyzip (>= 1.3.0)
-    jekyll-sass-c
+    jekyll-sass-converter (1.5.2)
+      sass (~>
