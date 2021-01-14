@@ -146,4 +146,5 @@ GEM
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-swiss (1.0.0)
-    jekyll-theme-architect (0.1.
+    jekyll-theme-architect (0.1.1)
+      jekyll (~> 3.5
