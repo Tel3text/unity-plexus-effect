@@ -152,4 +152,5 @@ GEM
     jekyll-theme-cayman (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jeky
+    jekyll-theme-dinky (0.1.1)
+      jekyll (~
