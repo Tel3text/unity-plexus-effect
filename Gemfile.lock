@@ -178,4 +178,5 @@ GEM
       jekyll-github-metadata (~> 2.9)
       jekyll-seo-tag (~> 2.0)
     jekyll-theme-slate (0.1.1)
-      jeky
+      jekyll (~> 3.5)
+      jekyll-s
