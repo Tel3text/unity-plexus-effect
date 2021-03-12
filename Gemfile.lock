@@ -180,4 +180,4 @@ GEM
     jekyll-theme-slate (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    je
+    jekyll-theme-tactile (0.1.1)
