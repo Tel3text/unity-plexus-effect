@@ -183,4 +183,5 @@ GEM
     jekyll-theme-tactile (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    jekyll-them
+    jekyll-theme-time-machine (0.1.1)
+      j
