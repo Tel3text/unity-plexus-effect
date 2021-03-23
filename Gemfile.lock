@@ -186,4 +186,4 @@ GEM
     jekyll-theme-time-machine (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
-    je
+    jekyll-titles-from-hea
