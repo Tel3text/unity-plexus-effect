@@ -187,4 +187,5 @@ GEM
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
     jekyll-titles-from-headings (0.5.3)
-      jekyll (>= 3.
+      jekyll (>= 3.3, < 5.0)
+    jekyll-watch (2.
