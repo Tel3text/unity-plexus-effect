@@ -194,4 +194,5 @@ GEM
       gemoji (~> 3.0)
       html-pipeline (~> 2.2)
       jekyll (>= 3.0, < 5.0)
-    kr
+    kramdown (1.17.0)
+    liquid (4.0.
