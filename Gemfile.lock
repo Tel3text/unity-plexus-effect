@@ -204,4 +204,4 @@ GEM
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
       jekyll-feed (~> 0.9)
-      j
+      jekyll-seo-tag (~> 2.1)
