@@ -207,3 +207,5 @@ GEM
       jekyll-seo-tag (~> 2.1)
     minitest (5.14.0)
     multipart-post (2.1.1)
+    nokogiri (1.10.8)
+    
