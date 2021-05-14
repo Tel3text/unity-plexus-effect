@@ -215,4 +215,5 @@ GEM
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
-      forwardable-e
+      forwardable-extended (~> 2.6)
+    public
