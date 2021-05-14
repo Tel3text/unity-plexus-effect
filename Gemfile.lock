@@ -214,4 +214,5 @@ GEM
     octokit (4.15.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
-    pathutil (
+    pathutil (0.16.2)
+      forwardable-e
