@@ -222,4 +222,6 @@ GEM
       ffi (~> 1.0)
     rouge (3.13.0)
     ruby-enum (0.7.2)
-      i
+      i18n
+    rubyzip (2.0.0)
+    safe_ya
