@@ -228,4 +228,5 @@ GEM
     sass (3.7.4)
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
-      r
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotif
