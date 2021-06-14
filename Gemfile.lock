@@ -234,4 +234,4 @@ GEM
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
     terminal-table (1.8.0)
-      unicode-di
+      unicode-display_width (~> 1.1, >= 1.1.1)
