@@ -233,4 +233,5 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
-    termina
+    terminal-table (1.8.0)
+      unicode-di
