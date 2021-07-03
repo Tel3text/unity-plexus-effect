@@ -249,4 +249,5 @@ GEM
 PLATFORMS
   ruby
 
-DEPE
+DEPENDENCIES
+  faraday (< 
