@@ -253,4 +253,6 @@ DEPENDENCIES
   faraday (< 1.0)
   github-pages
   jekyll-feed (~> 0.12)
-  jekyll-github-met
+  jekyll-github-metadata
+  jekyll-octicons
+  mi
