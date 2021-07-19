@@ -250,4 +250,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  faraday (< 
+  faraday (< 1.0)
+  github-pages
+  jekyll-f
