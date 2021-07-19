@@ -252,4 +252,5 @@ PLATFORMS
 DEPENDENCIES
   faraday (< 1.0)
   github-pages
-  jekyll-f
+  jekyll-feed (~> 0.12)
+  jekyll-github-met
