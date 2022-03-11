@@ -32,4 +32,4 @@
   function wrap_img(fn) {
     if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading") {
         var elements = document.querySelectorAll(".post img");
-        Array.prototype.forEa
+        Array.prototype.forEach.call(elements, function(
