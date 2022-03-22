@@ -34,4 +34,5 @@
         var elements = document.querySelectorAll(".post img");
         Array.prototype.forEach.call(elements, function(el, i) {
             if (el.getAttribute("title")) {
-                const caption = docume
+                const caption = document.createElement('figcaption');
+    
