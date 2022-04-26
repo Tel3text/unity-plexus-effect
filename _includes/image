@@ -1,3 +1,4 @@
 <figure>
   <img class="image" width="{{ include.w }}" src="/images/{{ include.url }}"
-    
+    {% if include.caption %}
+  
