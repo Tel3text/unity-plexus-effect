@@ -1,2 +1,2 @@
 <figure>
-  <img class="im
+  <img class="image" width="{{ include.w }}" src="/image
