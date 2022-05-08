@@ -4,4 +4,5 @@
     alt="{{ include.caption }}"
     {% endif %}
   >
-  {% if
+  {% if include.caption %}
+  <fig
