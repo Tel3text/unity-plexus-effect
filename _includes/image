@@ -5,4 +5,5 @@
     {% endif %}
   >
   {% if include.caption %}
-  <figcaption class="image-caption">{{ include.
+  <figcaption class="image-caption">{{ include.caption }}</figcaption>
+  
