@@ -47,3 +47,21 @@ Joel Grus, Principal Engineer at Capital Group, gave an insightful and entertain
 4. Scope down relentlessly: simplify the problem until it is the simplest useful version 
 5. Create a data model: Joel prefers a typed representation using NamedTuple over pandas for NLP datasets, since those often do not come in a tabular structure but rather have a one-to-many relationship, e.g. one line of text has multiple labels or named entities
 6. Explore and clean your data: don't spend ages here but do the necessary cleanup
+7. Get labels: either from the dataset or create labels yourself using Prodigy or [Snorkel](https://www.snorkel.ai/)
+8. Choose a really simple model and adapt it just enough to work on your problem, e.g. spaCy's off-the-shelf text classification model
+9. Train the model and evaluate on a hold out set using the right metrics
+10. Build a very simple demo web app with a text field and functionality to return predictions. [Streamlit](https://www.streamlit.io/) makes is extremely easy
+11. Take a risk and give the demo to customers. If they like it, build a production version. If not go back and improve the PoC.
+
+Christine Gerpheide, CTO at [Bespoke](https://www.be-spoke.io/index.html), presented two case studies about taking NLP from research to production. After giving a crash course on building chatbots, Christine walked us through the steps Bespoke takes before putting NLP models in production:
+1. Identify opportunities for applying machine learning. It's ok to use simple methods at this stage, e.g. pattern matching using regular expression
+2. Do research, then build a prototype. Benchmark different approaches, e.g. baseline vs. custom development vs. cloud service
+3. Have a go/no go meeting. Decide if there is potential and which approach to follow
+4. Build a Minimum Viable Product and test it on a sub-set of users to get real feedback
+5. Improve based on feedback, clean up the code and roll-out to all users
+
+The other use case presented was predictive typing. Christine also spent some time talking about the advantages of using in-house machine learning development rather than commercial services. Among them were the possibility to customize models, inspect how models are behaving and better control of model outputs. 
+
+Moshe Wasserblat, NLP & DL Research Manager at the [Intel AI Lab](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html), gave a talk on the efficient use of deep learning in production. Given the size and computational cost of recent transformer-based language models (think of T5, Turing-NLG and especially GPT-3) it is important to also consider the practicality of implementing these models in production. There are several attempts to make transformer models smaller, such as quantization, pruning, early prediction, weight sharing or distillation. [DistilBERT](https://arxiv.org/abs/1910.01108) from huggingface is 40% smaller and 60% faster than BERT, while maintaining 97% of its language understanding capabilities. Other even smaller yet powerful transformer models are [MobileBERT](https://arxiv.org/abs/2004.02984), [TinyBERT](https://arxiv.org/abs/1909.10351) and [aLBERT](https://arxiv.org/abs/1909.11942), which are easier to fine-tune and deploy. For extreme compression and inference speed up, it is even possible to distil BERT into simpler models like LSTMs, CNNs or CBOW models. Personally I am very excited about the topic of making state-of-the-art NLP models more efficient for practical purposes. There is more to come at the [SustaiNLP](https://sites.google.com/view/sustainlp2020/home) workshop at [EMNLP 2020](https://2020.emnlp.org/). 
+
+Thanks for reading! Please let me know your feedback!
