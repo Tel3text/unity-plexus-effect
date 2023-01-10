@@ -12,3 +12,38 @@ The field of applied NLP has made tremendous progress over the last couple of ye
 When it comes to specific use cases, document classification, named entity recognition and sentiment analysis are still the most popular NLP tasks. Given the sheer amount of text documents that companies are processing on a daily basis and the recent rate of improvement of NLP techniques, I believe that we will see an enourmous demand for NLP tools, platforms, engineers and researchers in the coming years. Clément Delangue, CEO at [huggingface](https://huggingface.co/), even went so far as giving a keynote titled "NLP is going to be the most transformational tech of the decade!", basing this claim on the fact that most of our day, both at work and in private, is spent using natural language, which finally can be  accurately processed by machines thanks to recent improvements. 
 
 Just to mention a few of the many exciting use cases that were presented at the conference: 
+- automated de-identification of medial records to enable the processing of sensitive documents such as in healthcare
+- above-human-level-performance document classification and *abstractive* (!) summarization of documents in the legal domain
+- using ML-powered intent recognition, curated templates and knowledge graphs to build effective chatbots
+
+**Which tools are used in industry?**
+
+Even though from following the Deep Learning community on twitter one might have the impression that everyone uses the huggingface transformers library (disclaimer: I'm a big fan myself) the reality paints a somewhat different picture. According to the above-mentioned survey, the three most-used NLP libraries are [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp), [spaCy](https://spacy.io/) and [Allen NLP](https://allennlp.org/), with huggingface landing on rank 7 (which is still very impressive for such a young library). Which tool is the right fit for a given project strongly depends on the specific requirements. Spark NLP and spaCy provide easy-to-use, reliable and efficient libraries for a variety of practical NLP use cases. Allen NLP might be a better suited for researchers. For state-of-the-art pre-trained transformer models one very likely would choose [huggingface transformers](https://huggingface.co/transformers/). For topic modelling [gensim](https://radimrehurek.com/gensim/) is still very popular. For part-of-speech-tagging or dependency parsing [Stanford CoreNLP](https://stanfordnlp.github.io/CoreNLP/) might be the best choice. A newcomer is the Berlin-based starup [Rasa](https://rasa.com/) that provides an open source framework and a tool called Rasa X for developing contextual AI assistants. 
+
+Even though a majority of companies use at least one of the leading NLP cloud services, there are still many challenges to be considered. Among them are price, missing customizability and features, low accuracy, unwillingness to share data and missing support of certain languages. 
+
+Please download and have a look at the [2020 NLP Survey Report](https://gradientflow.com/2020nlpsurvey/) for more details. 
+
+## On the importance of data annotation
+
+Data annotation or labelling is often considered an uncool, unqualified and strenuous task that *has to be* completed before finally being able to train a fancy model. However, in reality it is one of the most crucial tasks of completing a successful machine learning project that deserves more attention. Without clear guidelines and best practices, data annotation can become very expensive and even lead to the failure of machine learning projects due to insufficient data quality. It was great to see the topic being discussed repeatedly during several session at the NLP Summit 2020. Rebecca Leung and Marianne Mak from John Snow Labs even gave an entire talk about "Lessons learned annotating training data for healthcare NLP projects". Here are some of their insights as well as ideas from other talks and my own experience. 
+
+**Data annotation should be done by experts!** While it may be relatively easy to draw a bounding box around a street sign, most NLP annotation tasks require serious skills. If you want to have a good dataset, annotation needs to be done by qualified domain-experts. For sensitive areas such as healthcare or legal, this might even require having a PhD in the respective field. Moreover, annotation requires incredible focus, speed and endurance. Great annotators should be appreciated and well compensated. 
+
+**Go for quality, not quantity!** Even if you have experts annotating your data, they can still make some mistakes. Some label types (e.g. sentiment) are very subjective and depend on the opinion of a given annotator. Training a machine learning model on smaller, high-quality datasets can lead to better results than training on larger, but noisy and inconsistent data. If the annotation task is subjective or ambiguous, it may help to let two (or more) annotators label the same examples and go by consensus or majority voting.
+
+**Define and review clear annotation guidelines!** It is essential to clearly define guidelines for each annotation project. Formulating guidelines helps current annotators structure their thoughts and future annotators during onboarding. However, these guidelines are not set in stone but can evolve over time. It is important to hold regular (e.g. weekly) review sessions with team members, data scientists and clients to make sure everybody is and stays aligned. 
+
+**Use annotation tools!!!** If there is only one lesson learned about data annotation it is to use specialized tools. It is common best practice to use software tools to significantly speed up the annotation process by providing a clear interface, keyboard shortcuts and workflow support. Moreover, putting the model in the loop and using active learning techniques can make annotators even more efficient. Companies either build their own tools or use commerical ones, such as [Prodigy](https://prodi.gy/) from the makers of spaCy. 
+
+## My personal highlights
+
+In this last section I want to briefly summarize my three personal highlights from the conference. 
+
+Joel Grus, Principal Engineer at Capital Group, gave an insightful and entertaining keynote titled "Proof-of-Concept delight". Drawing on his own experience, Joel demonstrated how to build a PoC in about four hours using modern NLP tools. Here are the main steps he follows: 
+1. Identify the business problem: find out what task needs to be solved
+2. Find the ML problem: formulate the task as a machine learning problem
+3. Find a dataset: either you already have data or you need to find a suitable dataset
+4. Scope down relentlessly: simplify the problem until it is the simplest useful version 
+5. Create a data model: Joel prefers a typed representation using NamedTuple over pandas for NLP datasets, since those often do not come in a tabular structure but rather have a one-to-many relationship, e.g. one line of text has multiple labels or named entities
+6. Explore and clean your data: don't spend ages here but do the necessary cleanup
