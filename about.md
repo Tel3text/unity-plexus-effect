@@ -1,3 +1,3 @@
 # About
 
-**Data Scientist, Applied NLP
+**Data Scientist, Applied NLP Researcher, Project Manag
