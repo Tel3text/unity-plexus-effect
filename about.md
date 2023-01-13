@@ -2,4 +2,4 @@
 
 **Data Scientist, Applied NLP Researcher, Project Manager**
 
-I am a data scientist and 
+I am a data scientist and machine learning practicio
