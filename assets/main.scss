@@ -1,0 +1,17 @@
+
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "{{ site.theme }}";
+
+.post img {
+        display: block;
+        border:1px solid #021a40;
+        vertical-align: top;
+        margin-left: auto;
+        margin-right: auto;
+}
+
+.post figcaption {
+  text-align: center;
