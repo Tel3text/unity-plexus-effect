@@ -2,4 +2,4 @@
 
 Hello and welcome to my blog! 
 
-There are many go
+There are many good reasons to start your own 
