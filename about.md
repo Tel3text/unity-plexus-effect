@@ -6,4 +6,4 @@ I am a data scientist and machine learning practicioner with over four years of 
 
 I am available for freelance consulting work. 
 
-Feel free to rea
+Feel free to reach out to me: **s.josef.consulti
