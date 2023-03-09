@@ -8,4 +8,4 @@ On this blog I want to share personal projects covering data science, machine le
 
 Please check out my first blog posts:
 - I kicked off this blog by summing up my impressions from the [NLP Summit 2020](https://www.nlpsummit.org/) 
-- My secon
+- My second blog post describes my experienc
