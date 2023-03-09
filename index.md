@@ -7,4 +7,4 @@ There are many good reasons to start your own blog: Improving your technical wri
 On this blog I want to share personal projects covering data science, machine learning and natural language processing, as well as thoughts on topics such as AI project management, data ethics and how AI affects the economy and society. 
 
 Please check out my first blog posts:
-- I kicked of
+- I kicked off this blog by summing up 
