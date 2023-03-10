@@ -10,4 +10,5 @@ Please check out my first blog posts:
 - I kicked off this blog by summing up my impressions from the [NLP Summit 2020](https://www.nlpsummit.org/) 
 - My second blog post describes my experience at [EMNLP 2020](https://2020.emnlp.org/) (work in progress)
 
-Feel free to also look at two projects from earlier this ye
+Feel free to also look at two projects from earlier this year: 
+- [Sentiment analysis](h
