@@ -11,4 +11,4 @@ Please check out my first blog posts:
 - My second blog post describes my experience at [EMNLP 2020](https://2020.emnlp.org/) (work in progress)
 
 Feel free to also look at two projects from earlier this year: 
-- [Sentiment analysis](https://github.com/stefan-jo/USAirlineSent/blob/master/tweets_ULMFit
+- [Sentiment analysis](https://github.com/stefan-jo/USAirlineSent/blob/master/tweets_ULMFit_final.ipynb) with Universal L
