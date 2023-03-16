@@ -12,4 +12,4 @@ Please check out my first blog posts:
 
 Feel free to also look at two projects from earlier this year: 
 - [Sentiment analysis](https://github.com/stefan-jo/USAirlineSent/blob/master/tweets_ULMFit_final.ipynb) with Universal Language Model Fine-tuning for Text classification
-- Build
+- Building an [image recognit
