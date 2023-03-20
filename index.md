@@ -12,4 +12,6 @@ Please check out my first blog posts:
 
 Feel free to also look at two projects from earlier this year: 
 - [Sentiment analysis](https://github.com/stefan-jo/USAirlineSent/blob/master/tweets_ULMFit_final.ipynb) with Universal Language Model Fine-tuning for Text classification
-- Building an [image recognition webapp](https://github.com/stefan-jo/guitar_classifier/blob/master/guitar_classifier_model.ipynb) with fastai v2, Jupyter, Voil
+- Building an [image recognition webapp](https://github.com/stefan-jo/guitar_classifier/blob/master/guitar_classifier_model.ipynb) with fastai v2, Jupyter, Voilà and Binder
+
+What I have planned
