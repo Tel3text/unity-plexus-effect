@@ -15,4 +15,4 @@ Feel free to also look at two projects from earlier this year:
 - Building an [image recognition webapp](https://github.com/stefan-jo/guitar_classifier/blob/master/guitar_classifier_model.ipynb) with fastai v2, Jupyter, Voilà and Binder
 
 What I have planned for the upcoming months:
--
+- Write an in-depth tutoria
