@@ -16,4 +16,4 @@ Feel free to also look at two projects from earlier this year:
 
 What I have planned for the upcoming months:
 - Write an in-depth tutorial for fastai v2 text, showing details like subword tokenization, multi-label classification, QRNN and inference
-- Train a BERT language model fro
+- Train a BERT language model from scratch in a new lan
