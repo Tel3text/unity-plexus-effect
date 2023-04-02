@@ -21,4 +21,6 @@ What I have planned for the upcoming months:
 
 Head over to [About](https://stefan-jo.github.io/about.html) to find out more about me or dive straight into the posts below. 
 
-Please let me know your feedb
+Please let me know your feedback!
+
+This blog was created
