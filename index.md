@@ -19,4 +19,4 @@ What I have planned for the upcoming months:
 - Train a BERT language model from scratch in a new language and share it on the [huggingface model hub](https://huggingface.co/models)
 - When the new fast.ai Deep Learning course part 2 comes out, I plan to follow along here with posting projects and tutorials
 
-Head over to [
+Head over to [About](https://stefan-
