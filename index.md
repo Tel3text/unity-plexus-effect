@@ -23,4 +23,6 @@ Head over to [About](https://stefan-jo.github.io/about.html) to find out more ab
 
 Please let me know your feedback!
 
-This blog was created with `fast_template` from [fast.ai](https://www.fast.ai/2
+This blog was created with `fast_template` from [fast.ai](https://www.fast.ai/2020/01/16/fast_template/).
+
+
